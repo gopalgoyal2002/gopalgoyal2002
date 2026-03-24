@@ -1,15 +1,97 @@
-<h1 align="center">Hi 👋, I'm Gopal Goyal</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi, I'm Gopal Goyal 👋</h1>
+<h3 align="center">Software Developer | Building AI-powered products and scalable backend systems</h3>
 
-- 💬 Ask me about **Full Stack Development & Python Development**
+<p align="center">
+  <a href="https://www.linkedin.com/in/gopal-goyal-863981175/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gopal%20Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/gopalgoyal2002" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Connect-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://gopalgoyal.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/gopal-goyal-863981175/**
+---
 
-- ⚡ Fun fact **Google is your best friend**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/gopal-goyal-863981175/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gopal-goyal-863981175/" alt="linkedin badge"/> </a> 
-<a href="https://t.me/gopalgoyal2002" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="telegram badge"/> </a> 
+- SDE 3 Lead Developer at **ZeonAI** (Rajasthan, India)
+- Ex-**ANZ**, ex-freelancer (Upwork), with hands-on product and client delivery experience
+- Dual focus on **AI/LLM systems** and **full-stack/backend engineering**
+- Built production systems around **Agentic RAG**, **MCP integrations**, and enterprise data workflows
+- Master's in Physics from **IIT Bombay**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>   </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 What I’m Working On
+
+- Designing and scaling **agentic AI systems** for real-world enterprise use cases  
+- Building intelligent assistants with **tool use**, **reasoning**, and **multi-source data access**
+- Creating robust backend services with focus on **reliability**, **performance**, and **clean architecture**
+
+---
+
+## 🧠 Core Expertise
+
+- **AI/LLM Engineering:** Agentic RAG, retrieval pipelines, VQA, text classification, prompt workflows
+- **Backend Development:** FastAPI, Node.js, API design, async systems, database integrations
+- **Data & Infra:** PostgreSQL, MongoDB, Elasticsearch, AWS (Lambda, S3, DynamoDB), deployment workflows
+- **Frontend Development:** React, Next.js, TypeScript
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## 📌 Highlights
+
+- Built an **Agentic RAG** platform with reasoning and tool-calling capabilities
+- Implemented **MCP servers** for SQL, MongoDB, and Weaviate to enable dynamic multi-DB querying
+- Developed **ASKAI** integrated with InvoiceAI for contextual enterprise data analysis
+- Fine-tuned and deployed NLP/LLM models for document intelligence workflows
+
+---
+
+## 💬 Ask Me About
+
+- Full Stack Development
+- Python Backend Development
+- AI/LLM Application Engineering
+- Building production-ready APIs and intelligent systems
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: [gopal-goyal-863981175](https://www.linkedin.com/in/gopal-goyal-863981175/)
+- Telegram: [@gopalgoyal2002](https://t.me/gopalgoyal2002)
+- Portfolio: [gopalgoyal.in](https://gopalgoyal.in)
+
+---
+
+<p align="center">
+  ⚡ <i>Fun fact:</i> Google is still a developer’s best friend.
+</p>
